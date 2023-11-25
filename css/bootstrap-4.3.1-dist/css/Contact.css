@@ -1,0 +1,39 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(255, 128, 64);
+}
+
+h1 {
+  color: rgb(255, 128, 0);
+  font-size: 24px;
+  text-align: center;
+}
+
+p {
+  color: rgb(255, 128, 64);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.button {
+  background-color: rgb(255, 128, 0);
+  color: rgb(255, 128, 64);
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
